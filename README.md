@@ -1,0 +1,3 @@
+This Simple Calculator is a desktop application developed using Python and Tkinter. The application provides a graphical user interface (GUI) that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+Users can input numbers using interactive buttons, and the calculator evaluates expressions using Python’s eval() function. It also includes features like clear (C) button, error handling for invalid expressions, and a clean user-friendly layout. This project demonstrates Python GUI development, event handling, and basic mathematical computation using Tkinter.
